@@ -1,0 +1,45 @@
+.link-size {
+	font-size: 14px;
+}
+
+.center-horizintally {
+	text-align: center;
+}
+
+.center-vertically {
+	padding: 70px 0;
+	text-align: center;
+}
+
+.align-right {
+	text-align: right;
+}
+
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+}
+
+hr {
+	margin: 0px;
+	border-color: #f2f2f3;
+}
+
+input[type=text] {
+	width: 50%;
+}
+
+#form {
+	margin: -50px;
+}
+
+#business-links {
+	margin: 100px;
+}
+
+#buttons {
+	margin: -13px;
+}
